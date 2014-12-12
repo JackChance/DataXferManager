@@ -1,0 +1,12 @@
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\bin\Debug\DataXferBatchPlus.exe.config
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\bin\Debug\DataXferBatchPlus.exe
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\bin\Debug\DataXferBatchPlus.pdb
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\obj\Debug\DataXferBatchPlus.DataXferForm.resources
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\obj\Debug\DataXferBatchPlus.Properties.Resources.resources
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\obj\Debug\DataXferBatchPlus.csproj.GenerateResource.Cache
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\obj\Debug\DataXferBatchPlus.exe
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\obj\Debug\DataXferBatchPlus.pdb
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\bin\Debug\DataXferBatchPlus.exe.manifest
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\bin\Debug\DataXferBatchPlus.application
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\obj\Debug\DataXferBatchPlus.exe.manifest
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\obj\Debug\DataXferBatchPlus.application
