@@ -10,3 +10,4 @@ C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXfe
 C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\bin\Debug\DataXferBatchPlus.application
 C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\obj\Debug\DataXferBatchPlus.exe.manifest
 C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\obj\Debug\DataXferBatchPlus.application
+C:\Users\Cameron\documents\visual studio 2013\Projects\DataXferBatchPlus\DataXferBatchPlus\obj\Debug\DataXferBatchPlus.csprojResolveAssemblyReference.cache
